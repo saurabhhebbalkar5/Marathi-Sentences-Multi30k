@@ -1,5 +1,5 @@
 # Marathi-Sentences-Multi30k
-English-Marathi image descriptions of the Multi30k dataset.
+English-Marathi image descriptions of the Multi30k dataset. These sentences can be used to develop Multi-modal Machine Trasnlation Model for an under-resourced English-Marathi language pair.
 
 Download the Images from: http://www.statmt.org/wmt16/multimodal-task.html
 
