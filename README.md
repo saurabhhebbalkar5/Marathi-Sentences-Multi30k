@@ -2,7 +2,9 @@
 English-Marathi image descriptions of the Multi30k dataset.
 
 Download the Images from: http://www.statmt.org/wmt16/multimodal-task.html
-Original Multi30K datase: https://github.com/multi30k/dataset
+
+Original Multi30K dataset: https://github.com/multi30k/dataset
+
 Multi30k Dataset Papaer: https://arxiv.org/abs/1605.00459
 
 @article{elliott-EtAl:2016:VL16,
